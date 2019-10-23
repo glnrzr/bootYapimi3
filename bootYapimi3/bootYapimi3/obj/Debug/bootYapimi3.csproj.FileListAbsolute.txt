@@ -1,0 +1,11 @@
+C:\Users\258571\documents\visual studio 2015\Projects\bootYapimi3\bootYapimi3\bin\Debug\bootYapimi3.exe.config
+C:\Users\258571\documents\visual studio 2015\Projects\bootYapimi3\bootYapimi3\bin\Debug\bootYapimi3.exe
+C:\Users\258571\documents\visual studio 2015\Projects\bootYapimi3\bootYapimi3\bin\Debug\bootYapimi3.pdb
+C:\Users\258571\documents\visual studio 2015\Projects\bootYapimi3\bootYapimi3\bin\Debug\HtmlAgilityPack.dll
+C:\Users\258571\documents\visual studio 2015\Projects\bootYapimi3\bootYapimi3\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\258571\documents\visual studio 2015\Projects\bootYapimi3\bootYapimi3\bin\Debug\HtmlAgilityPack.xml
+C:\Users\258571\documents\visual studio 2015\Projects\bootYapimi3\bootYapimi3\obj\Debug\bootYapimi3.Form1.resources
+C:\Users\258571\documents\visual studio 2015\Projects\bootYapimi3\bootYapimi3\obj\Debug\bootYapimi3.Properties.Resources.resources
+C:\Users\258571\documents\visual studio 2015\Projects\bootYapimi3\bootYapimi3\obj\Debug\bootYapimi3.csproj.GenerateResource.Cache
+C:\Users\258571\documents\visual studio 2015\Projects\bootYapimi3\bootYapimi3\obj\Debug\bootYapimi3.exe
+C:\Users\258571\documents\visual studio 2015\Projects\bootYapimi3\bootYapimi3\obj\Debug\bootYapimi3.pdb
